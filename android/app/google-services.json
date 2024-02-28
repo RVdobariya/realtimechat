@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "612618204451",
+    "firebase_url": "https://facebooklogin-72f6c-default-rtdb.firebaseio.com",
+    "project_id": "facebooklogin-72f6c",
+    "storage_bucket": "facebooklogin-72f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612618204451:android:e2582ada19dd4af2ac0896",
+        "android_client_info": {
+          "package_name": "com.example.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612618204451-rdgv8c80s2lq6ajteqtk2np3c223g132.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3iedt20wCPz1pzUHgdiVJytNIuqXqBvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612618204451-rdgv8c80s2lq6ajteqtk2np3c223g132.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612618204451-0f4858jua0tfddqjsu2on69gibi6aj9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.facebooklogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612618204451:android:78d9917e9c0c9f0dac0896",
+        "android_client_info": {
+          "package_name": "com.realtimechat.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612618204451-rdgv8c80s2lq6ajteqtk2np3c223g132.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3iedt20wCPz1pzUHgdiVJytNIuqXqBvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612618204451-rdgv8c80s2lq6ajteqtk2np3c223g132.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612618204451-0f4858jua0tfddqjsu2on69gibi6aj9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.facebooklogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
